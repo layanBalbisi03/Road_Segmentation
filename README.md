@@ -36,7 +36,7 @@ The project uses the F1 score as the primary evaluation metric, emphasizing a ba
 - Incorporate hyperparameter tuning utilities.
 - Extend the model suite with more architectures.
 
-  ## Acknowledgments
+## Acknowledgments
 - Special thanks to our instructor, **Dr. Tamam Alsarhan**, for their guidance and support.
 - AIcrowd for providing the dataset.
 - Open-source libraries and frameworks used in the project.
