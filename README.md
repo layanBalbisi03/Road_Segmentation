@@ -35,3 +35,14 @@ The project uses the F1 score as the primary evaluation metric, emphasizing a ba
 - Add additional preprocessing and postprocessing scripts.
 - Incorporate hyperparameter tuning utilities.
 - Extend the model suite with more architectures.
+
+  ## Acknowledgments
+- Special thanks to our instructor, **Dr. Tamam Alsarhan**, for their guidance and support.
+- AIcrowd for providing the dataset.
+- Open-source libraries and frameworks used in the project.
+
+ ## Team Members:
+  - Beesan Al-Attal
+  - Layan Balbisi
+  - Leen Samman
+  - Zaina Abu-Naser
