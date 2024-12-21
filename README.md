@@ -27,6 +27,8 @@ This folder provides the implementation of the deep learning models used for seg
 The project uses AIcrowd's satellite image dataset, consisting of:
 - **Training Images**: 700 RGB images (400x400 pixels)
 - **Masks**: Corresponding ground truth masks for road and background labeling
+- **Data Link**: https://drive.google.com/drive/folders/13FlHKtefaaW8Q3MUNutriz1zKV-H9v6D?usp=sharing
+
 
 ## Evaluation Metric
 The project uses the F1 score as the primary evaluation metric, emphasizing a balance between precision and recall.
