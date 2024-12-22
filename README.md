@@ -15,9 +15,9 @@ This folder contains scripts for applying various data augmentation techniques t
 ### `models/`
 This folder provides the implementation of the deep learning models used for segmentation. It includes:
 - **U-Net**: A widely-used architecture for semantic segmentation.
-- **SegFormer**: A transformer-based model for pixel-wise classification.
+- **SegNet**: A CNN for pixe-wise semantic segmentation using efficent encoder-decoder upsampling.
 - **PSPNet**: Pyramid Scene Parsing Network for capturing multi-scale context.
-- **DeepLab**: A model leveraging atrous convolutions for segmentation.
+- **DeepLabV3**: A model leveraging atrous convolutions for segmentation.
 
 ## Key Features
 - **Customizable Data Augmentation**: Enhance the training data with flexible augmentation techniques.
